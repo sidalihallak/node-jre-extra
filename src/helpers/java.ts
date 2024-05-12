@@ -343,7 +343,7 @@ export async function installJre(options: InstallJreOptions = {}) {
       encoding: 'utf-8',
     },
   )
-  consola.success(`Install [${id}] to ${decompressDirName}`)
+  consola.success(`Install [${id}] to ${decompressDir}`)
 }
 
 export function list() {
