@@ -1,8 +1,8 @@
 {
-  "name": "node-jre-extra",
+  "name": "@sidalihallak/node-jre-extra",
   "description": "",
-  "version": "0.0.5",
-  "author": "Yuns <yuns.xie@qq.com>",
+  "version": "0.0.1",
+  "author": "sidalihallak <bigalitux@gmail.com>",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.mjs",
@@ -18,16 +18,12 @@
     "java",
     "openjdk"
   ],
-  "funding": [
-    "https://opencollective.com/yuns",
-    "https://afdian.net/@yunslove"
-  ],
-  "homepage": "https://github.com/yunsii/node-jre-extra#readme",
+  "homepage": "https://github.com/sidalihallak/node-jre-extra#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yunsii/node-jre-extra"
+    "url": "https://github.com/sidalihallak/node-jre-extra"
   },
-  "bugs": "https://github.com/yunsii/node-jre-extra/issues",
+  "bugs": "https://github.com/sidalihallak/node-jre-extra/issues",
   "bin": "bin/cli.mjs",
   "scripts": {
     "dev": "vite --config vite.docs.config.ts",
